@@ -1293,6 +1293,17 @@ void Clantag()
 					case 222: { Utils::SetClantag("7____839-"); break; }
 					case 223: { Utils::SetClantag("____839-7"); break; }
 					case 224: { Utils::SetClantag("___839-7_"); break; }
+					case 225: { Utils::SetClantag("__839_7__"); break; }
+					case 226: { Utils::SetClantag("_839_7___"); break; }
+					case 227: { Utils::SetClantag("839-7____"); break; }
+					case 228: { Utils::SetClantag("39-7____8"); break; }
+					case 229: { Utils::SetClantag("9-7____83"); break; }
+					case 230: { Utils::SetClantag("-7____832"); break; }
+					case 231: { Utils::SetClantag("7____832-"); break; }
+					case 232: { Utils::SetClantag("____832-7"); break; }
+					case 233: { Utils::SetClantag("___832-7_"); break; }
+					case 234: { Utils::SetClantag("__832-7__"); break; }
+					case 235: { Utils::SetClantag("_832-7___"); break; }
 					default:;
 					}
 				}
